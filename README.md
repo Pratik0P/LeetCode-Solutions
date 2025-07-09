@@ -1,70 +1,101 @@
-# 🚀 LeetCode Solutions by Pratik Prakash
+# 🚀 LeetCode 50/50 Solutions by Pratik Prakash
 
-This repository contains categorized solutions to popular LeetCode problems.
+This repository contains **50 curated LeetCode problems**, all solved in **Python**, categorized for clarity and aligned with **AI/ML interview relevance**.
+
+> 🔥 Clean code | 🧠 DSA mastery | 💼 Recruiter-ready
+
+---
 
 ## 📊 Problem Tracker
-- ✅ Total solved: 25/50
-- 📂 Focus areas:
+
+- ✅ Total Solved: **50 / 50**
+- 🧩 Topics Covered:
   - Arrays
   - Hashing
+  - Stack & Queue
   - Sliding Window
-  - Stack
-  - Linked List
-  - Dynamic Programming (DP)
   - Two Pointers
+  - Linked List
+  - Binary Tree & N-Ary Tree
   - Binary Search
+  - Graphs (BFS/DFS)
   - Heap
-- 🐍 Language: Python
+  - Dynamic Programming (DP)
+
+- 🐍 Language: Python 3
+- 💼 Resume-Ready: Yes
 
 ---
 
-## ✅ Arrays
-- [Two Sum](./Arrays/two_sum.py)
-- [Maximum Subarray](./Arrays/max_subarray.py)
-- [Move Zeroes](./Arrays/move_zeroes.py)
-- [3Sum](./Arrays/three_sum.py)
-- [Trapping Rain Water](./Arrays/trapping_rain_water.py)
+## 🧠 Relevance for AI/ML Roles
 
-## ✅ Hashing
-- [Valid Anagram](./Hashing/valid_anagram.py)
-- [Majority Element](./Hashing/majority_element.py)
-- [Top K Frequent Elements](./Hashing/top_k_frequent_elements.py)
-- [Top K Frequent Words](./Hashing/top_k_frequent_words.py)
-- [Contains Duplicate](./Hashing/contains_duplicate.py)
-- [Subarray Sum Equals K](./Hashing/subarray_sum_equals_k.py)
-
-## ✅ Sliding Window
-- [Longest Substring Without Repeating Characters](./SlidingWindow/longest_substring.py)
-- [Best Time to Buy and Sell Stock](./SlidingWindow/best_time_to_buy_sell.py)
-- [Minimum Window Substring](./SlidingWindow/min_window_substring.py)
-- [Longest Repeating Character Replacement](./SlidingWindow/longest_repeating_character.py)
-
-## ✅ Stack
-- [Valid Parentheses](./Stack/valid_parentheses.py)
-- [Evaluate Reverse Polish Notation](./Stack/evaluate_rpn.py)
-- [Implement Queue using Stacks](./Stack/queue_using_stacks.py)
-
-## ✅ Linked List
-- [Merge Two Sorted Lists](./LinkedList/merge_two_sorted_lists.py)
-- [Reverse Linked List](./LinkedList/reverse_linked_list.py)
-- [Palindrome Linked List](./LinkedList/palindrome_linked_list.py)
-
-## ✅ Binary Search
-- [Find Minimum in Rotated Sorted Array](./BinarySearch/find_min_rotated_sorted_array.py)
-- [Search in Rotated Sorted Array](./BinarySearch/search_rotated_sorted_array.py)
-
-## ✅ Dynamic Programming (DP)
-- [Climbing Stairs](./DP/climbing_stairs.py)
-
-## ✅ Heap
-- [Kth Largest Element in an Array](./Heap/kth_largest_element.py)
-
-## ✅ Two Pointers
-- [Container With Most Water](./TwoPointers/container_with_most_water.py)
+These problems target skills critical for:
+- Model optimization logic (DP, greedy, recursion)
+- Stream-based data handling (sliding window, queue)
+- Graph traversal & structure learning (used in GNNs, Airflow, decision trees)
+- Time-series and sequence-aware processing
+- ML system debugging (tree/graph integrity, path logic)
 
 ---
 
-## 🔗 My Profiles
-- [LeetCode](https://leetcode.com/u/prakashpratik04/)
-- [GitHub](https://github.com/Pratik0P)
-- [LinkedIn](https://www.linkedin.com/in/pratikprakash04)
+## 🗂️ Folder Structure
+
+```
+LeetCode-Solutions/
+├── Arrays/
+├── BinarySearch/
+├── DP/
+├── Graph/
+├── Hashing/
+├── Heap/
+├── LinkedList/
+├── SlidingWindow/
+├── Stack/
+├── Tree/
+├── TwoPointers/
+```
+
+---
+
+## 📌 Sample Problems
+
+| Topic         | Problem                              | File                                     |
+|---------------|--------------------------------------|------------------------------------------|
+| Arrays        | Two Sum                              | `Arrays/two_sum.py`                      |
+| Hashing       | Top K Frequent Elements              | `Hashing/top_k_frequent_elements.py`     |
+| Sliding Window| Longest Substring Without Repeating  | `SlidingWindow/longest_substring.py`     |
+| Tree          | Max Path Sum                         | `Tree/max_path_sum.py`                   |
+| Graph         | Course Schedule                      | `Graph/course_schedule.py`               |
+| DP            | Climbing Stairs                      | `DP/climbing_stairs.py`                  |
+
+---
+
+## 🔗 Important Links
+
+- [📘 LeetCode Profile](https://leetcode.com/u/prakashpratik04/)
+- [📁 GitHub Repo](https://github.com/Pratik0P/LeetCode-Solutions)
+
+---
+
+## 💼 Resume / LinkedIn Summary
+
+```
+• Solved 50 top-tier LeetCode problems across 12+ DSA topics.
+• Focused on AI/ML problem types — DP, Graphs, Trees, Sliding Windows, etc.
+• Maintained structured, commented Python solutions with GitHub documentation.
+• Repo: github.com/Pratik0P/LeetCode-Solutions
+```
+
+---
+
+## ✅ What’s Next?
+
+Now that this repo is live:
+- Submit top 10–15 problems on LeetCode.com for profile proof
+- Add to your resume under Projects
+- Pin the repo on GitHub & share on LinkedIn
+
+---
+
+> 🧠 "Consistency > Luck. This repo shows skill, structure, and seriousness."  
+> — Built by Pratik Prakash, for roles that demand impact.
